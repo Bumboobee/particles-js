@@ -27,8 +27,8 @@ For **app.js** copy and paste **[this](https://github.com/VincentGarreau/particl
  **The final result you can see [➡here⬅](https://bumboobee.github.io/Particles.js/)** 
 <div align="center">
 
-![anonymous-hacker](https://user-images.githubusercontent.com/94147847/156250112-e78d0d76-ac0e-4cc2-9277-617b4276555a.gif)
+[![anonymous-hacker](https://user-images.githubusercontent.com/94147847/156250112-e78d0d76-ac0e-4cc2-9277-617b4276555a.gif)](https://bumboobee.github.io/Particles.js/)
 
- > **We exist without nationality, skin colour or religious bias.** 
+ > We exist without nationality, skin colour or religious bias. 
  >> **Anonymous Group**
 <div \> 
